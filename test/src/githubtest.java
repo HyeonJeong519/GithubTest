@@ -1,3 +1,5 @@
 public class githubtest {
-  System.out.println("hello world");
+    static public void main(String[] args) {
+        System.out.println("hello world");
+    }
 }
